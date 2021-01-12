@@ -85,6 +85,7 @@
 
 <p align="center">
     sundowndev/PhoneInfoga
+    </br>
     <a href="https://github.com/sundowndev/PhoneInfoga" title="sundowndev/PhoneInfoga">
         <img src="https://i.imgur.com/LtUGnF3.png" width=500 />
     </a>
