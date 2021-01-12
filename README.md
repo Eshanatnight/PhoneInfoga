@@ -1,4 +1,4 @@
-# A OSINT Investigator For Phone Numbers
+# An OSINT Investigator For Phone Numbers
 
     International Contacts Supported
     CLI Based
